@@ -68,4 +68,4 @@ Based on [PlatformIndicators](https://github.com/Vendicated/Vencord/tree/main/sr
 
 ## License
 
-GPL-3.0-or-later, like Vencord. See the header in [index.tsx](index.tsx).
+GPL-3.0-or-later, like Vencord. See [LICENSE](LICENSE).
