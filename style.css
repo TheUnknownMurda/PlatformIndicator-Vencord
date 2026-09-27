@@ -1,0 +1,22 @@
+.vc-platform-indicator {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: top;
+    position: relative;
+    gap: 2px;
+}
+
+.vc-platform-indicator-friends {
+    display: inline-flex;
+    flex-shrink: 0;
+    margin-inline-start: 12px;
+}
+
+.vc-platform-indicator-friends:empty {
+    display: none;
+}
+
+.vc-platform-indicator-friends .vc-platform-indicator {
+    gap: 4px;
+}
