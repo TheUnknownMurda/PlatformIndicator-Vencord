@@ -66,6 +66,8 @@ Both patches only run when the friends list setting is on. If a Discord update b
 
 Based on [PlatformIndicators](https://github.com/Vendicated/Vencord/tree/main/src/plugins/platformIndicators) by kemo, sunnie, Nuckyz and V, from [Vencord](https://github.com/Vendicated/Vencord).
 
+Friends list support by [TheUnknownMurda](https://github.com/TheUnknownMurda).
+
 ## License
 
 GPL-3.0-or-later, like Vencord. See [LICENSE](LICENSE).

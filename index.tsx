@@ -226,7 +226,7 @@ export default definePlugin({
     name: "PlatformIndicators",
     description: "Adds platform indicators (Desktop, Mobile, Web...) to users",
     tags: ["Appearance"],
-    authors: [Devs.kemo, Devs.TheSun, Devs.Nuckyz, Devs.Ven],
+    authors: [Devs.kemo, Devs.TheSun, Devs.Nuckyz, Devs.Ven, { name: "TheUnknownMurda", id: 338163169782398977n }],
     dependencies: ["MessageDecorationsAPI", "MemberListDecoratorsAPI"],
     settings,
 
