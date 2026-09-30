@@ -4,6 +4,14 @@ A modified version of Vencord's built-in **PlatformIndicators** plugin that also
 
 The icons sit right after each friend's name and server tag. Each icon is colored by the status the friend has *on that platform*, so a friend who is idle on desktop but online on mobile shows a yellow monitor and a green phone.
 
+| Platform | Online | Idle | Do Not Disturb |
+| :-- | :-: | :-: | :-: |
+| Desktop | <img src="assets/desktop-online.svg" width="40" alt="Desktop, online"> | <img src="assets/desktop-idle.svg" width="40" alt="Desktop, idle"> | <img src="assets/desktop-dnd.svg" width="40" alt="Desktop, do not disturb"> |
+| Mobile | <img src="assets/mobile-online.svg" width="40" alt="Mobile, online"> | <img src="assets/mobile-idle.svg" width="40" alt="Mobile, idle"> | <img src="assets/mobile-dnd.svg" width="40" alt="Mobile, do not disturb"> |
+| Web | <img src="assets/web-online.svg" width="40" alt="Web, online"> | <img src="assets/web-idle.svg" width="40" alt="Web, idle"> | <img src="assets/web-dnd.svg" width="40" alt="Web, do not disturb"> |
+| Embedded (console or game) | <img src="assets/embedded-online.svg" width="40" alt="Embedded, online"> | <img src="assets/embedded-idle.svg" width="40" alt="Embedded, idle"> | <img src="assets/embedded-dnd.svg" width="40" alt="Embedded, do not disturb"> |
+| VR | <img src="assets/vr-online.svg" width="40" alt="VR, online"> | <img src="assets/vr-idle.svg" width="40" alt="VR, idle"> | <img src="assets/vr-dnd.svg" width="40" alt="VR, do not disturb"> |
+
 ## Features
 
 Icons for desktop, mobile, web, console/embedded (game controller) and VR, shown:
